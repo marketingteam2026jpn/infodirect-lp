@@ -1200,10 +1200,11 @@ footer .container .copyright {
 .campaign-1 .container .inner .campaign-card .campaign-detail,
 .campaign-2 .container .inner .campaign-card .campaign-detail,
 .campaign-2 .container .inner .campaign-card-2 .campaign-detail {
-  margin-top: 10px;
-  padding-top: 10px;
+  margin-top: 12px;
+  padding-top: 12px;
   border-top: 1px dashed #B18B5E;
-  font-size: clamp(12px, 2.9vw, 14px);
+  font-weight: 700;
+  font-size: clamp(15px, 3.8vw, 18px);
   color: #543C29;
   letter-spacing: 0.04em;
 }
