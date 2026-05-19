@@ -50,7 +50,7 @@ a {
 
 /* ヒーローセクション */
 .hero {
-  color: #543C29;
+  color: #6B5747;
 }
 .hero .container {
   padding: 20px;
@@ -112,7 +112,7 @@ a {
 }
 .achieve .container .ttl {
   padding: 20px 0;
-  border-bottom: 2px solid #543C29;
+  border-bottom: 2px solid #6B5747;
 }
 .achieve .container .image_1 {
   margin: 20px auto 10px;
@@ -123,14 +123,14 @@ a {
 }
 .achieve .container .txt_1 {
   font-size: clamp(15px, 4.5vw, 30px);
-  color: #543C29;
+  color: #6B5747;
 }
 .achieve .container .txt_1 span {
   font-weight: bold;
 }
 .achieve .container .txt_2 {
   font-size: clamp(15px, 4.4vw, 30px);
-  color: #543C29;
+  color: #6B5747;
 }
 .achieve .container .txt_2 span {
   font-weight: bold;
@@ -157,7 +157,7 @@ a {
   margin: 0 auto 10px;
 }
 .campaign-1 .container .inner .txt {
-  color: #543C29;
+  color: #6B5747;
   text-align: center;
   font-size: clamp(10px, 4vw, 20px);
 }
@@ -229,12 +229,12 @@ a {
   width: 80%;
 }
 .voice .container .content .voice_0 .comment {
-  color: #543C29;
+  color: #6B5747;
 }
 .voice .container .content .voice_0 .comment .name {
   text-align: left;
   font-size: clamp(15px, 5vw, 30px);
-  border-bottom: 2px solid #543C29;
+  border-bottom: 2px solid #6B5747;
   padding-bottom: 10px;
   margin-bottom: 10px;
 }
@@ -261,7 +261,7 @@ a {
   font-weight: bold;
   font-style: italic;
   font-size: clamp(22px, 8vw, 44px);
-  color: #543C29;
+  color: #6B5747;
   line-height: 1.2;
 }
 .solution .container .ttl .ttl_2 {
@@ -317,7 +317,7 @@ a {
   flex-direction: column;
   gap: 10px;
   padding: 20px;
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(14px, 4.4vw, 28px);
 }
 .solution .container .note .note_1 span {
@@ -343,7 +343,7 @@ a {
   font-weight: bold;
   font-style: italic;
   font-size: clamp(22px, 8vw, 44px);
-  color: #543C29;
+  color: #6B5747;
   line-height: 1.2;
 }
 .posture .container .ttl .ttl_2 {
@@ -382,7 +382,7 @@ a {
   font-size: clamp(25px, 10vw, 50px);
   font-style: italic;
   font-weight: bold;
-  color: #543C29;
+  color: #6B5747;
   line-height: 1;
 }
 .posture .container .content .item .item-ttl .ttl_1 {
@@ -391,7 +391,7 @@ a {
   font-style: italic;
   font-weight: bold;
   letter-spacing: 2px;
-  color: #543C29;
+  color: #6B5747;
   text-shadow: 3px 3px 0px #FFF5E9;
 }
 .posture .container .content .item .item-ttl .ttl_1 span {
@@ -407,7 +407,7 @@ a {
 }
 .posture .container .content .item .item-inner .txt {
   font-size: clamp(15px, 4.4vw, 30px);
-  color: #543C29;
+  color: #6B5747;
   text-align: justify;
 }
 .posture .container .content .item .item-inner .txt span {
@@ -417,7 +417,7 @@ a {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(17px, 4.2vw, 30px);
   text-align: justify;
   padding: 20px 40px 0;
@@ -441,7 +441,7 @@ a {
   font-weight: bold;
   font-style: italic;
   font-size: clamp(22px, 8vw, 44px);
-  color: #543C29;
+  color: #6B5747;
   line-height: 1.2;
 }
 .repeat .container .ttl .ttl_2 {
@@ -479,7 +479,7 @@ a {
   position: relative;
   font-family: "Battambang", sans-serif;
   font-size: clamp(20px, 5vw, 40px);
-  color: #543C29;
+  color: #6B5747;
   text-align: center;
 }
 .repeat .container .content .item .num:before {
@@ -489,7 +489,7 @@ a {
   left: 0;
   width: 44%;
   height: 2px;
-  background: #543C29;
+  background: #6B5747;
 }
 .repeat .container .content .item .num:after {
   content: "";
@@ -498,28 +498,28 @@ a {
   right: 0;
   width: 44%;
   height: 2px;
-  background: #543C29;
+  background: #6B5747;
 }
 .repeat .container .content .item .ttl {
   font-family: "Noto Sans JP", serif;
   font-size: clamp(20px, 5.5vw, 40px);
   letter-spacing: 2px;
-  color: #543C29;
+  color: #6B5747;
   text-align: left;
   line-height: 1.2;
-  border-bottom: 2px solid #543C29;
+  border-bottom: 2px solid #6B5747;
   padding-bottom: 15px;
 }
 .repeat .container .content .item .txt {
   font-size: clamp(13px, 3.6vw, 28px);
-  color: #543C29;
+  color: #6B5747;
   text-align: justify;
 }
 .repeat .container .content .item .txt span {
   font-weight: bold;
 }
 .repeat .container .note {
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(8px, 3.1vw, 15.5px);
   text-align: left;
   padding: 20px;
@@ -547,10 +547,10 @@ a {
 }
 .plan .container .txt {
   font-size: clamp(16px, 4.4vw, 30px);
-  color: #543C29;
+  color: #6B5747;
   margin: 0 40px;
   padding-bottom: 40px;
-  border-bottom: 2px solid #543C29;
+  border-bottom: 2px solid #6B5747;
 }
 .plan .container .txt span {
   font-weight: bold;
@@ -605,7 +605,7 @@ a {
   padding: 0;
 }
 .plan .container .content .note {
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(16px, 4.5vw, 28px);
 }
 
@@ -634,7 +634,7 @@ a {
 }
 .contact .container .inner .txt {
   text-align: left;
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(8px, 2.6vw, 16px);
   display: flex;
   flex-direction: column;
@@ -650,7 +650,7 @@ a {
   text-align: left;
 }
 .contact .container .inner form .form-group label {
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(10px, 3.3vw, 20px);
 }
 .contact .container .inner form .form-group label.select {
@@ -674,9 +674,9 @@ a {
   padding: 10px;
   margin: 0;
   margin-top: 2px;
-  border: 2px solid #543C29;
+  border: 2px solid #6B5747;
   border-radius: 6px;
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(10px, 3vw, 16px);
 }
 .contact .container .inner form .form-group .checkbox {
@@ -695,7 +695,7 @@ a {
 .contact .container .inner form .form-group .checkbox .checkmark {
   width: 18px;
   height: 18px;
-  border: 2px solid #543C29;
+  border: 2px solid #6B5747;
   border-radius: 0px;
   background: #fff;
   position: relative;
@@ -725,9 +725,9 @@ a {
 }
 .contact .container .inner form .form-group textarea {
   width: 100%;
-  border: 2px solid #543C29;
+  border: 2px solid #6B5747;
   border-radius: 6px;
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(10px, 3vw, 16px);
   padding: 10px;
 }
@@ -742,7 +742,7 @@ a {
   justify-content: center;
 }
 .contact .container .inner form .form-group-privacy a {
-  color: #543C29;
+  color: #6B5747;
 }
 
 /* フォームの簡易装飾 */
@@ -770,7 +770,7 @@ a {
 }
 .document .container .inner .txt {
   text-align: left;
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(8px, 2.6vw, 16px);
   display: flex;
   flex-direction: column;
@@ -786,7 +786,7 @@ a {
   text-align: left;
 }
 .document .container .inner form .form-group label {
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(10px, 3.3vw, 20px);
 }
 .document .container .inner form .form-group label.select {
@@ -810,9 +810,9 @@ a {
   padding: 10px;
   margin: 0;
   margin-top: 2px;
-  border: 2px solid #543C29;
+  border: 2px solid #6B5747;
   border-radius: 6px;
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(10px, 3vw, 16px);
 }
 .document .container .inner form .form-group .checkbox {
@@ -831,7 +831,7 @@ a {
 .document .container .inner form .form-group .checkbox .checkmark {
   width: 18px;
   height: 18px;
-  border: 2px solid #543C29;
+  border: 2px solid #6B5747;
   border-radius: 0px;
   background: #fff;
   position: relative;
@@ -861,9 +861,9 @@ a {
 }
 .document .container .inner form .form-group textarea {
   width: 100%;
-  border: 2px solid #543C29;
+  border: 2px solid #6B5747;
   border-radius: 6px;
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(10px, 3vw, 16px);
   padding: 10px;
 }
@@ -878,7 +878,7 @@ a {
   justify-content: center;
 }
 .document .container .inner form .form-group-privacy a {
-  color: #543C29;
+  color: #6B5747;
 }
 
 .confirm .container {
@@ -904,7 +904,7 @@ a {
   text-align: left;
 }
 .confirm .container .confirm-table .form-group label {
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(10px, 3.3vw, 20px);
 }
 .confirm .container .confirm-table .form-group label.select {
@@ -925,7 +925,7 @@ a {
 }
 .confirm .container .confirm-table .form-group .c-txt,
 .confirm .container .confirm-table .form-group .d-txt {
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(10px, 3.3vw, 20px);
 }
 
@@ -955,7 +955,7 @@ a {
 }
 .thanks .container .inner .txt {
   text-align: center;
-  color: #543C29;
+  color: #6B5747;
   font-size: clamp(8px, 3.3vw, 16px);
   display: flex;
   flex-direction: column;
@@ -1039,12 +1039,12 @@ footer .container .inner .image {
   padding-bottom: 10px;
 }
 footer .container .inner .address {
-  color: #543C29;
-  border-bottom: 1px solid #543C29;
+  color: #6B5747;
+  border-bottom: 1px solid #6B5747;
   padding-bottom: 10px;
 }
 footer .container .inner .link a {
-  color: #543C29;
+  color: #6B5747;
   padding-top: 10px;
 }
 footer .container .copyright {
@@ -1061,7 +1061,7 @@ footer .container .copyright {
   padding: 20px 16px 24px;
   line-height: 1.6;
   font-family: "Noto Sans JP", sans-serif;
-  color: #543C29;
+  color: #6B5747;
 }
 .achieve .container .ttl.ttl-text .ttl-line-1,
 .achieve .container .ttl.ttl-text .ttl-line-2,
@@ -1101,7 +1101,7 @@ footer .container .copyright {
   padding: 10px 18px;
   font-weight: 700;
   font-size: clamp(16px, 3.5vw, 20px);
-  color: #543C29;
+  color: #6B5747;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 .achieve .container .service-list li .crown {
@@ -1128,7 +1128,7 @@ footer .container .copyright {
 .achieve .container .menu-block .menu-ttl {
   font-weight: 800;
   font-size: clamp(16px, 3.6vw, 19px);
-  color: #543C29;
+  color: #6B5747;
   padding-bottom: 8px;
   border-bottom: 1px solid #E6CD9C;
   margin-bottom: 10px;
@@ -1186,7 +1186,7 @@ footer .container .copyright {
 .campaign-2 .container .inner .campaign-card-2 .campaign-title {
   font-weight: 900;
   font-size: clamp(20px, 4.8vw, 28px);
-  color: #543C29;
+  color: #6B5747;
   letter-spacing: 0.02em;
   margin-bottom: 6px;
 }
@@ -1195,17 +1195,17 @@ footer .container .copyright {
 .campaign-2 .container .inner .campaign-card-2 .campaign-sub {
   font-weight: 700;
   font-size: clamp(14px, 3.3vw, 17px);
-  color: #543C29;
+  color: #6B5747;
 }
 .campaign-1 .container .inner .campaign-card .campaign-detail,
 .campaign-2 .container .inner .campaign-card .campaign-detail,
 .campaign-2 .container .inner .campaign-card-2 .campaign-detail {
   margin-top: 12px;
   padding-top: 12px;
-  border-top: 1px dashed #B18B5E;
+  border-top: 1px dashed #C9B5A0;
   font-weight: 700;
   font-size: clamp(15px, 3.8vw, 18px);
-  color: #543C29;
+  color: #6B5747;
   letter-spacing: 0.04em;
 }
 
@@ -1220,14 +1220,14 @@ footer .container .copyright {
   display: block;
   font-weight: 700;
   font-size: clamp(15px, 3.4vw, 18px);
-  color: #543C29;
+  color: #6B5747;
   margin-bottom: 6px;
 }
 .solution .container .ttl.ttl-text .ttl-main {
   display: block;
   font-weight: 900;
   font-size: clamp(22px, 5.2vw, 32px);
-  color: #543C29;
+  color: #6B5747;
 }
 .solution .container .ttl.ttl-text .ttl-main em {
   color: #EBA70C;
@@ -1240,5 +1240,76 @@ footer .container .copyright {
   font-size: clamp(11px, 2.6vw, 14px);
   line-height: 1.4;
   padding: 6px 8px;
+}
+
+/* ========================================
+   2026-05-19 配色刷新 — Blue accent 追加
+   ========================================
+   背景: deep brown #543C29 → warm taupe #6B5747 (明度UP・彩度DOWN)
+   薄ベージュ #B18B5E → #C9B5A0 (洗練)
+   そこにブルーアクセント #4A90B5 を散らして清潔感・現代感UP
+*/
+
+:root {
+  --accent-blue: #4A90B5;
+  --accent-blue-light: #E6F0F5;
+  --accent-blue-soft: #7FB3D0;
+}
+
+/* achieve タイトル下にブルーアクセント線 */
+.achieve .container .ttl.ttl-text {
+  position: relative;
+}
+.achieve .container .ttl.ttl-text::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: var(--accent-blue);
+  margin: 16px auto 0;
+  border-radius: 2px;
+}
+/* タイトル ttl-line-2 の em (「だけ」) をブルーへ */
+.achieve .container .ttl.ttl-text .ttl-line-2 em {
+  color: var(--accent-blue);
+}
+
+/* solution タイトル下にもブルーアクセント線 */
+.solution .container .ttl.ttl-text {
+  position: relative;
+}
+.solution .container .ttl.ttl-text::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: var(--accent-blue);
+  margin: 16px auto 0;
+  border-radius: 2px;
+}
+
+/* 業務メニューに薄ブルー左ボーダー + 背景 */
+.achieve .container .menu-block {
+  background: var(--accent-blue-light);
+  border-left: 4px solid var(--accent-blue);
+}
+.achieve .container .menu-block .menu-ttl {
+  color: var(--accent-blue);
+  border-bottom-color: var(--accent-blue-soft);
+}
+.achieve .container .menu-block .menu-list li::before {
+  color: var(--accent-blue);
+}
+
+/* service-list の王冠枠もブルーに */
+.achieve .container .service-list li {
+  border-color: var(--accent-blue);
+}
+
+/* CTAボタンの campaign-detail 区切り線をブルーに */
+.campaign-1 .container .inner .campaign-card .campaign-detail,
+.campaign-2 .container .inner .campaign-card .campaign-detail,
+.campaign-2 .container .inner .campaign-card-2 .campaign-detail {
+  border-top-color: var(--accent-blue-soft);
 }
 /*# sourceMappingURL=style.css.map */
