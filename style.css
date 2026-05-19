@@ -1138,7 +1138,7 @@ footer .container .copyright {
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   gap: 6px 16px;
 }
 .achieve .container .menu-block .menu-list li {
@@ -1154,25 +1154,25 @@ footer .container .copyright {
   color: #EBA70C;
 }
 
-/* CTA バナー（campaign-1 / campaign-2 HTML 化） */
+/* CTA バナー（campaign-1 / campaign-2 HTML 化）— LPブランド色(緑+茶+クリーム)で統一 */
 .campaign-1 .container .inner .campaign-card,
 .campaign-2 .container .inner .campaign-card,
 .campaign-2 .container .inner .campaign-card-2 {
-  background: linear-gradient(135deg, #ffffff 0%, #f1f8fc 100%);
-  border: 2px solid #2D7BBF;
+  background: linear-gradient(135deg, #FFFFFA 0%, #FFF5E9 100%);
+  border: 2px solid #30834E;
   border-radius: 12px;
   padding: 18px 22px 22px;
   text-align: center;
   width: 100%;
   max-width: 480px;
   margin: 0 auto;
-  box-shadow: 0 4px 12px rgba(45, 123, 191, 0.12);
+  box-shadow: 0 4px 12px rgba(84, 60, 41, 0.15);
 }
 .campaign-1 .container .inner .campaign-card .campaign-label,
 .campaign-2 .container .inner .campaign-card .campaign-label,
 .campaign-2 .container .inner .campaign-card-2 .campaign-label {
   display: inline-block;
-  background: #2D7BBF;
+  background: #30834E;
   color: #fff;
   font-weight: 700;
   font-size: clamp(13px, 3vw, 15px);
@@ -1186,7 +1186,7 @@ footer .container .copyright {
 .campaign-2 .container .inner .campaign-card-2 .campaign-title {
   font-weight: 900;
   font-size: clamp(20px, 4.8vw, 28px);
-  color: #1B4E7F;
+  color: #543C29;
   letter-spacing: 0.02em;
   margin-bottom: 6px;
 }
@@ -1195,7 +1195,7 @@ footer .container .copyright {
 .campaign-2 .container .inner .campaign-card-2 .campaign-sub {
   font-weight: 700;
   font-size: clamp(14px, 3.3vw, 17px);
-  color: #444;
+  color: #543C29;
 }
 
 /* P6 solution タイトル HTML 化 */
