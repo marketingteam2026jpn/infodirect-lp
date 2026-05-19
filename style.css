@@ -1197,6 +1197,16 @@ footer .container .copyright {
   font-size: clamp(14px, 3.3vw, 17px);
   color: #543C29;
 }
+.campaign-1 .container .inner .campaign-card .campaign-detail,
+.campaign-2 .container .inner .campaign-card .campaign-detail,
+.campaign-2 .container .inner .campaign-card-2 .campaign-detail {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed #B18B5E;
+  font-size: clamp(12px, 2.9vw, 14px);
+  color: #543C29;
+  letter-spacing: 0.04em;
+}
 
 /* P6 solution タイトル HTML 化 */
 .solution .container .ttl.ttl-text {
