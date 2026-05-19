@@ -137,7 +137,7 @@ a {
 }
 
 .campaign-1 .container {
-  background-image: url(/img/cta_1_bg.png);
+  background-image: url(img/cta_1_bg.png);
   background-position: center center;
   background-size: cover;
   display: flex;
@@ -175,7 +175,7 @@ a {
   flex-direction: column;
   justify-content: space-between;
   gap: 10px;
-  background: url(/img/cta_2_bg.png), linear-gradient(180deg, #FFFFFA 0%, #FFFFFA 100%);
+  background: url(img/cta_2_bg.png), linear-gradient(180deg, #FFFFFA 0%, #FFFFFA 100%);
   background-position: center top;
   background-size: contain;
   background-repeat: no-repeat;
@@ -279,7 +279,7 @@ a {
   flex-direction: column;
   gap: 3.5%;
   aspect-ratio: 375/680.5;
-  background: url("/img/solution_bg.png");
+  background: url("img/solution_bg.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1108,7 +1108,7 @@ footer .container .copyright {
   display: inline-block;
   width: 28px;
   height: 28px;
-  background: url("/img/plan_icon_1.png") no-repeat center / contain;
+  background: url("img/plan_icon_1.png") no-repeat center / contain;
   margin-right: 12px;
   flex-shrink: 0;
 }
