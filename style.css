@@ -1317,17 +1317,6 @@ footer .container .copyright {
    2026-05-20 PDFサンプル画像反映分
    ======================================== */
 
-/* P2 service-icons-image (オペレーター/AI/AI×オペレーター を1画像で表示) */
-.achieve .container .service-icons-image {
-  width: 90%;
-  max-width: 340px;
-  margin: 16px auto 8px;
-}
-.achieve .container .service-icons-image img {
-  width: 100%;
-  height: auto;
-}
-
 /* CTA バナーをサンプル提案の濃紺ベースに刷新 */
 .campaign-1 .container .inner .campaign-card,
 .campaign-2 .container .inner .campaign-card,
