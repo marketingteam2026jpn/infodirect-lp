@@ -1312,4 +1312,74 @@ footer .container .copyright {
 .campaign-2 .container .inner .campaign-card-2 .campaign-detail {
   border-top-color: var(--accent-blue-soft);
 }
+
+/* ========================================
+   2026-05-20 PDFサンプル画像反映分
+   ======================================== */
+
+/* P2 service-icons-image (オペレーター/AI/AI×オペレーター を1画像で表示) */
+.achieve .container .service-icons-image {
+  width: 90%;
+  max-width: 340px;
+  margin: 16px auto 8px;
+}
+.achieve .container .service-icons-image img {
+  width: 100%;
+  height: auto;
+}
+
+/* CTA バナーをサンプル提案の濃紺ベースに刷新 */
+.campaign-1 .container .inner .campaign-card,
+.campaign-2 .container .inner .campaign-card,
+.campaign-2 .container .inner .campaign-card-2 {
+  background: linear-gradient(135deg, #1B3F6B 0%, #2D5A8F 100%);
+  border: none;
+  border-radius: 10px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(27, 63, 107, 0.25);
+  color: #fff;
+}
+.campaign-1 .container .inner .campaign-card .campaign-label,
+.campaign-2 .container .inner .campaign-card .campaign-label,
+.campaign-2 .container .inner .campaign-card-2 .campaign-label {
+  display: block;
+  background: #0F2540;
+  color: #fff;
+  font-weight: 700;
+  font-size: clamp(14px, 3.4vw, 16px);
+  padding: 8px 16px;
+  border-radius: 0;
+  margin-bottom: 0;
+  letter-spacing: 0.08em;
+}
+.campaign-1 .container .inner .campaign-card .campaign-title,
+.campaign-2 .container .inner .campaign-card .campaign-title,
+.campaign-2 .container .inner .campaign-card-2 .campaign-title {
+  font-weight: 900;
+  font-size: clamp(22px, 5.2vw, 30px);
+  color: #fff;
+  letter-spacing: 0.02em;
+  margin: 14px 0 4px;
+}
+.campaign-1 .container .inner .campaign-card .campaign-sub,
+.campaign-2 .container .inner .campaign-card .campaign-sub,
+.campaign-2 .container .inner .campaign-card-2 .campaign-sub {
+  font-weight: 700;
+  font-size: clamp(14px, 3.5vw, 17px);
+  color: #E1ECF7;
+  padding: 0 16px;
+  margin-bottom: 4px;
+}
+.campaign-1 .container .inner .campaign-card .campaign-detail,
+.campaign-2 .container .inner .campaign-card .campaign-detail,
+.campaign-2 .container .inner .campaign-card-2 .campaign-detail {
+  margin: 12px 16px 16px;
+  padding-top: 12px;
+  border-top: 1px dashed rgba(255, 255, 255, 0.4);
+  font-weight: 700;
+  font-size: clamp(14px, 3.6vw, 17px);
+  color: #E1ECF7;
+  letter-spacing: 0.04em;
+}
 /*# sourceMappingURL=style.css.map */
